@@ -1,0 +1,5 @@
+Furniture website
+
+Open index.html first.
+Other pages: about.html, services.html, contact.html.
+The shared stylesheet is styles.css.
